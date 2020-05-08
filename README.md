@@ -4,9 +4,6 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/b\_e\_n" target="_blank">
-    <img alt="Twitter: b\_e\_n" src="https://img.shields.io/twitter/follow/b\_e\_n.svg?style=social" />
-  </a>
 </p>
 
 > Get sample hosts from CIDR ranges.
