@@ -20,7 +20,8 @@ python3 ./ipranger/ipranger.py
 
 or run the precompiled binary 
 
-Binaries are provided for Windows but untested...
+Binaries are provided for Windows ~~but untested...~~
+* tested on Windows 10 1909 running Python 3.8.3rc1 - tnkr
 
 ## Author
 
