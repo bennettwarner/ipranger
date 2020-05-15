@@ -9,7 +9,7 @@
 > Get sample hosts from CIDR ranges.
 
 ## Requirements
-* Python 3.8
+* Python 3 (3.8 for binary)
 
 ## Usage
 
@@ -19,9 +19,7 @@ python3 ./ipranger/ipranger.py
 ```
 
 or run the precompiled binary 
-
-Binaries are provided for Windows ~~but untested...~~
-* tested on Windows 10 1909 running Python 3.8.3rc1 - tnkr
+Binaries are provided for Mac
 
 ## Author
 
