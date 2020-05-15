@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 python3 ./ipranger/ipranger.py
 ```
 
-or run the precompiled binary 
+or run the precompiled binary.
 Binaries are provided for Mac
 
 ## Author
