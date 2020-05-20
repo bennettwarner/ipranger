@@ -29,12 +29,17 @@ or run the precompiled binary available under releases
 python3 ./ipranger/ipranger.py -i 10.10.10.1/24 -o ./myhosts.txt
 ```
 
-## Author
+## Contributors
 
-😝 **Bennett Warner**
+**Bennett Warner**
 
 * Twitter: [@b_e_n](https://twitter.com/b_e_n)
 * Github: [@bennettwarner](https://github.com/bennettwarner)
+
+**Zach Lawson**
+
+* Twitter: [@tnkr](https://twitter.com/_tnkr_)
+* Github: [@tnkr](https://github.com/tnkr)
 
 
 ## Show your support
