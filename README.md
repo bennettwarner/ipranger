@@ -12,7 +12,7 @@
 
 ## Requirements
 * Python 3.6+
-(The precompiled binary specifically requires Python 3.6)
+(The precompiled binary specifically requires Python 3.8)
 
 ## Installation
 ```sh
