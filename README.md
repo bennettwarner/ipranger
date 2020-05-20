@@ -5,21 +5,26 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
-
+![IPRanger Screenshot](screenshot.png)
 > Get sample hosts from CIDR ranges.
 
 ## Requirements
-* Python 3 (3.8 for binary)
+* Python 3.6+
+(The precompiled binary specifically requires Python 3.6)
+
+## Installation
+```sh
+git clone https://github.com/bennettwarner/ipranger.git
+cd ipranger
+pip3 install -r requirements.txt
+```
+or run the precompiled binary available under releases
 
 ## Usage
 
 ```sh
-pip3 install -r requirements.txt
-python3 ./ipranger/ipranger.py
+python3 ./ipranger/ipranger.py -i 10.10.10.1/24 -o ./myhosts.txt
 ```
-
-or run the precompiled binary.
-Binaries are provided for Mac
 
 ## Author
 
