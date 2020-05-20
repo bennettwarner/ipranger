@@ -8,7 +8,8 @@
 
 ![IPRanger Screenshot](screenshot.png)
 
-> Get sample hosts from CIDR ranges.
+> IPRanger gives you a representative random sample hosts from a CIDR range.
+> Intended to help when scanning every host is infeasible due to scope size.
 
 ## Requirements
 * Python 3.6+
