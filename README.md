@@ -5,7 +5,9 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
+
 ![IPRanger Screenshot](screenshot.png)
+
 > Get sample hosts from CIDR ranges.
 
 ## Requirements
